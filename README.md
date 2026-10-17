@@ -1,9 +1,9 @@
 # Malware-Based ATM Cyber Heist: A Case Study of the Cosmos Bank Attack
 
-**Course:** Cyber Security, CA2 (Case Study, Experiential Learning)
+**Course:** Cyber Security, CA2 (Case Study)
 **Institute:** Symbiosis Institute of Technology, Pune (Department of Electronics & Telecommunication Engineering)
 **Guide:** Dr Mangal Singh
-**Group number:** G__ (fill in your B.Tech project group number)
+**Group number:** G25
 
 | Member | PRN |
 | --- | --- |
@@ -12,7 +12,6 @@
 | Dhanraj Chavan | 24070123502 |
 | Kunal Ranjan | 24070123510 |
 
-**GitHub link:** `<paste your repository link here>`
 
 ---
 
@@ -27,10 +26,10 @@ The study uses **document analysis and threat modelling** (STRIDE, MITRE ATT&CK,
 | File | Purpose |
 | --- | --- |
 | `README.md` | This file |
-| `G__.pdf` | Final report (rename to your group number) |
-| `source_review_matrix.xlsx` | Table 1 of the report: the source-review matrix (add this file) |
+| `Cybersecurity_Report_G25.pdf` | Final report |
+| `source_review_matrix.xlsx` | Table 1 of the report: the source-review matriX |
 | `breach_detection_demo.py` | Small illustrative script for the algorithm in Section 5 |
-| `Presentation/` | Video presentation and slides (if included) |
+| `Presentation/` | Video presentation and slides |
 
 ## 3. How to "run" the methodology
 
